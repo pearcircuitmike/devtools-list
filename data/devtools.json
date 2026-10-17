@@ -30,6 +30,12 @@
     "description": "The easiest way to add authentication and user management to your application. Purpose-built for React, Next.js, Remix, and “The Modern Web”."
   },
   {
+  "slug": "csvjetty",
+  "name": "CSVJetty",
+  "url": "https://csvjetty.com",
+  "description": "Embeddable CSV importer for web apps with column mapping, validation, and data delivery."
+  },
+  {
     "slug": "sentry",
     "name": "Sentry",
     "url": "https://sentry.io",
